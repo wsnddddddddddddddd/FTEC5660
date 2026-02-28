@@ -82,3 +82,4 @@ pip install openai scikit-learn imbalanced-learn tqdm pandas
 - No API keys are committed in this repository
 - The 30-sample subset is a representative sample; the full dataset (1,978 drafts) is available from the [original authors' Google Drive](https://drive.google.com/file/d/1tiBCCYPjeIN92TkO8Vt8vrpSKLmGb-6Y/view)
 - Results on the 30-sample subset are not directly comparable to the paper's full-dataset results
+- Presentation video link: https://drive.google.com/file/d/1CY1Y2JzLyChl3_xgNqEXykv_bmKJ6jTx/view?usp=sharing
